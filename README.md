@@ -9,7 +9,7 @@ Shiny package installed in R
 library(shiny)
 Run a tar or zip file directly
 
-runUrl("https://github.com/karthicklaksman/synrio/archive/master.tar.gz") runUrl("https://github.com/karthicklaksman/synrio/archive/master.zip")
+runUrl("https://github.com/NFMC/synrio/archive/master.tar.gz") runUrl("https://github.com/NFMC/synrio/archive/master.zip")
 
 Or you can clone the git repository, then use runApp():
 
